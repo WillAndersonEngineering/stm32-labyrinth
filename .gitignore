@@ -1,0 +1,12 @@
+/firmware/Debug/
+/firmware/Release/
+.metadata/
+*.launch
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+*.su
+*.cyclo
